@@ -99,11 +99,13 @@
   }
   
  #features img {
-  width: 10%;
-  height: 10px;
-  display: flex;
-  margin-left: 10px;
+ width: 50%;
+    height: auto;
+    margin: 0 auto;
+    display: flex;
+    justify-content: left;
 }
+  
   
   h3.one, h3.two, h3.three {
     margin-bottom: 6px;
