@@ -98,10 +98,12 @@
     margin: -10px 0;
   }
   
-  #features img {
-    width: 100%;
-    height: auto;
-  }
+ #features img {
+  width: 10%;
+  height: 10px;
+  display: flex;
+  margin-left: 10px;
+}
   
   h3.one, h3.two, h3.three {
     margin-bottom: 6px;
